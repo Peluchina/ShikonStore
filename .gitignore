@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.rsuser
+
+# Logs
+*.log
+
+# NuGet
+packages/
+
+# Node
+node_modules/
